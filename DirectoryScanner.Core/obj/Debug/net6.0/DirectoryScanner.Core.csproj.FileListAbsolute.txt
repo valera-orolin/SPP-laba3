@@ -1,0 +1,12 @@
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\bin\Debug\net6.0\DirectoryScanner.Core.deps.json
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\bin\Debug\net6.0\DirectoryScanner.Core.dll
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\bin\Debug\net6.0\DirectoryScanner.Core.pdb
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\obj\Debug\net6.0\DirectoryScanner.Core.csproj.AssemblyReference.cache
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\obj\Debug\net6.0\DirectoryScanner.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\obj\Debug\net6.0\DirectoryScanner.Core.AssemblyInfoInputs.cache
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\obj\Debug\net6.0\DirectoryScanner.Core.AssemblyInfo.cs
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\obj\Debug\net6.0\DirectoryScanner.Core.csproj.CoreCompileInputs.cache
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\obj\Debug\net6.0\DirectoryScanner.Core.dll
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\obj\Debug\net6.0\refint\DirectoryScanner.Core.dll
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\obj\Debug\net6.0\DirectoryScanner.Core.pdb
+D:\studying\лабы СПП\лаба 3\ex1spp3-master_mihalcov\DirectoryScanner.Core\obj\Debug\net6.0\ref\DirectoryScanner.Core.dll
